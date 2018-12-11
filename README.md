@@ -1,10 +1,13 @@
-## Your Name
+## LUCA FRUZZA
 
-A sentence about who and what you are. Then a sentence about what you've achieved. And then a sentence about what you're looking for: what you would ideally be doing, with whom and in what environment.
+As an Astrophysics Bsci graduate having just worked as a teacher and team leader in Japan, I have good balance of problem solving and people skills. Having discovered a strong calling to become a developer, I now want to turn those skills to the keyboard. I’m eager for challenges which force me to learn and improve as a developer to overcome them. 
 
 ## Skills
 
-#### This Skill
+With experience primarily using Python to find solutions in  academic and professional scenarios, I’m now looking for opportunities which will push me to grow from a predominantly self-taught position into an industry professional standard developer.
+#### Communication and teamworking
+#### Initiative
+#### Mathematical Problem solving
 
 Descriptive paragraph of how capable you are at this skill and, if relevant, how it has developed.
 
@@ -12,7 +15,7 @@ Descriptive paragraph of how capable you are at this skill and, if relevant, how
 - Achievements
 - Evidence
 
-#### Another Skill
+#### Modeling real-life as CS problems
 
 Descriptive paragraph of how capable you are at this skill and, if relevant, how it has developed.
 
@@ -23,7 +26,7 @@ Descriptive paragraph of how capable you are at this skill and, if relevant, how
 
 ## Education
 
-#### Makers Academy (start_date to end_date)
+#### Makers Academy (January 2018 to March 2018)
 
 - Curious and passionate about code. [PROVIDE EVIDENCE]
 - Fast, independent learner [PROVIDE EVIDENCE]
@@ -34,13 +37,15 @@ Descriptive paragraph of how capable you are at this skill and, if relevant, how
 - Ruby, Rails, JavaScript
 - RSpec, Jasmine
 
-#### Your University / College (start_date to end_date)
+#### Royal Holloway, University of London (September 2011 to July 2014)
 
-- Subject, any specialisms
-- Grade
+**Astrophysics Bsci (1st degree hons)**
+
 - Other cool stuff
 
 #### Any other qualifications
+
+**Japanese Language Profeciency Test N3 (Advanced Intermediate)**
 
 ## Experience
 
@@ -48,3 +53,7 @@ Descriptive paragraph of how capable you are at this skill and, if relevant, how
 *Your job title*  
 **Company Name** (start_date to end_date)   
 *Your job title*  
+
+## Interests
+
+
