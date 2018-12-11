@@ -1,6 +1,6 @@
 ## LUCA FRUZZA
 
-As an Astrophysics Bsci graduate having just worked as a teacher and team leader in Japan, I have good balance of problem solving and people skills. Having discovered a strong calling to become a developer, I now want to turn those skills to the keyboard. I’m eager for challenges which force me to learn and improve as a developer to overcome them. 
+I am a full stack developer.  I am an Astrophysics BSc graduate and went overseas to become a teacher and Team Leader in Japan.  This background has honed my logical, problem-solving skillset whilst balancing it with strong interpersonal skills; giving me a versatility which makes me an asset to any dev team.  Having discovered my calling to become a developer, I now want to apply these skills to the keyboard.  I’m eager for challenges which will drive me to learn and improve as a developer.
 
 ## Skills
 
