@@ -4,10 +4,13 @@ I am a full stack developer.  I am an Astrophysics BSc graduate and went oversea
 
 ## Skills
 
-With experience primarily using Python to find solutions in  academic and professional scenarios, I’m now looking for opportunities which will push me to grow from a predominantly self-taught position into an industry professional standard developer.
+With experience primarily using Python and Ruby to find solutions in  academic and professional scenarios, I’m now looking for opportunities which will push me to grow from a predominantly self-taught position into an industry professional standard developer.
+
 #### Communication and teamworking
+
 #### Initiative
-#### Mathematical Problem solving
+
+#### Mathematical Problem Solving
 
 Descriptive paragraph of how capable you are at this skill and, if relevant, how it has developed.
 
@@ -41,11 +44,12 @@ Descriptive paragraph of how capable you are at this skill and, if relevant, how
 
 **Astrophysics Bsci (1st degree hons)**
 
-- Other cool stuff
+- Data Handling
+- Mathematical and Statistical Modeling
+- Group Research Thesis on Variable Stars
+- Python
 
-#### Any other qualifications
 
-**Japanese Language Profeciency Test N3 (Advanced Intermediate)**
 
 ## Experience
 
@@ -54,6 +58,10 @@ Descriptive paragraph of how capable you are at this skill and, if relevant, how
 **Company Name** (start_date to end_date)   
 *Your job title*  
 
-## Interests
+## Extra credit
+**Japanese Language Profeciency Test N3 (Advanced Intermediate)**
+
+**Award winning comic**
+[Take a look!](https://express.yudu.com/item/details/3780123/MJ15--.1st---Luca-Fruzza----Sonnegarten--)
 
 
