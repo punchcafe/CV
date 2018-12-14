@@ -4,53 +4,43 @@ I am a full stack developer.  I am an Astrophysics BSc graduate and went oversea
 
 ## Skills
 
-With experience primarily using Python and Ruby to find solutions in  academic and professional scenarios, I’m now looking for opportunities which will push me to grow from a predominantly self-taught position into an industry professional standard developer.
-
-#### Communication and teamworking
+#### Communication and Teamwork
 
 #### Initiative
 
+#### Self-learner
+
+#### Adaptability
+
 #### Mathematical Problem Solving
 
-Descriptive paragraph of how capable you are at this skill and, if relevant, how it has developed.
-
-- Experience
-- Achievements
-- Evidence
-
-#### Modeling real-life as CS problems
-
-Descriptive paragraph of how capable you are at this skill and, if relevant, how it has developed.
-
-- I achieved A during my work at B (job, or otherwise)
-- I contributed to the growth of X while doing Y (job, or otherwise)
-- I built this, made this, broke this, fixed this, etc.
-- A link to some on-line evidence (blogs, videos, articles, etc.)
+#### Algorithmic Thinking
 
 ## Education
 
 #### Makers Academy (November 2018 to March 2019)
 
-- Curious and passionate about code. [PROVIDE EVIDENCE]
-- Fast, independent learner [PROVIDE EVIDENCE]
-- Great collaborator [PROVIDE EVIDENCE]
+* Curious and passionate about code. [PROVIDE EVIDENCE]
+* Fast, independent learner [PROVIDE EVIDENCE]
+* Great collaborator [PROVIDE EVIDENCE]
 
-- OOP, TDD, MVC, DDD
-- Agile/XP
-- Ruby, Rails, JavaScript
-- RSpec, Jasmine
+* OOP, TDD, MVC, DDD
+* Agile/XP
+* Ruby, Rails, JavaScript
+* RSpec, Jasmine
 
 #### Royal Holloway, University of London (September 2011 to July 2014)
 
 **Astrophysics Bsci (1st degree hons)**
 
-- Implemented and developed methodical problem solving skills.
-- Adaptive, resourceful learner.
-- Strong mathematical background.
+* Implemented and developed methodical problem solving skills.
+* Adaptive, resourceful learner.
+* Strong mathematical background.
 
-- Data Handling
-- Mathematical and Statistical Modeling
-- Python
+
+* Data Handling
+* Mathematical and Statistical Modeling
+* Python
 
 
 
@@ -89,13 +79,13 @@ Descriptive paragraph of how capable you are at this skill and, if relevant, how
 
 ## Extra credit
 When I can I like to draw. ~~Bit of a~~ Massive geek. Good at Mario Kart?
-Let's be friends.
-
+Let's be friends.  
 [My coding blog](https://punchcafe.hatenablog.com/), [My drawing blog](http://punchcafe.co.uk/).
 
-**Japanese Language Profeciency Test N3 (Advanced Intermediate)**
+**Japanese Language Profeciency Test (JLPT)**  
+N3 Certification (Advanced Intermediate)
 
-**Award winning comic**
+**Award Winning Comic**  
 [Take a look!](https://express.yudu.com/item/details/3780123/MJ15--.1st---Luca-Fruzza----Sonnegarten--)
 
 
