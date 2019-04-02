@@ -2,11 +2,11 @@
 <img src="./images/rubylogo.png" width=50px>
 <img src="./images/Ruby_on_Rails-logo.png" width=30px>
 <img src="./images/rspec.png" width=30px>
-<div display="inline-block" width=50px style="display: inline-block; width: 25px;"></div>
+<div style="display: inline-block; width: 25px;"></div>
 <img src="./images/JavaScript-logo.png" width=50px>
 <img src="./images/React.js_logo-512.png" width=30px>
 <img src="./images/jestlogo.png" width=30px>
-<div display="inline-block" width=50px style="display: inline-block; width: 25px;"></div>
+<div style="display: inline-block; width: 25px;"></div>
 <img src="./images/pythonlogo.png" width=50px>
 </div>
 
