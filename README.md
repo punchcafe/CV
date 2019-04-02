@@ -8,9 +8,7 @@ I am a full stack developer.  I am an Astrophysics BSc graduate and went oversea
 
 #### Initiative
 
-#### Self-learner
-
-#### Adaptability
+#### Adaptive Learning
 
 #### Mathematical Problem Solving
 
@@ -20,14 +18,17 @@ I am a full stack developer.  I am an Astrophysics BSc graduate and went oversea
 
 #### Makers Academy (November 2018 to March 2019)
 
-* Curious and passionate about code. [PROVIDE EVIDENCE]
-* Fast, independent learner [PROVIDE EVIDENCE]
-* Great collaborator [PROVIDE EVIDENCE]
-
-* OOP, TDD, MVC, DDD
-* Agile/XP
-* Ruby, Rails, JavaScript
-* RSpec, Jasmine
+* Rigorous understanding of Test-Driven Development.
+* Acquired strong processes for self teaching new technologies to a useable standard in short time frames.
+* Completed four team engineering projects while adhering to and refining understanding of *Agile* processes.
+* Technologies:
+    * Ruby, Rails, Sinatra; Rspec and Capybara
+    * JavaScript, React; Jasmine and Jest
+* Practices:
+    * Test-Driven Development
+    * Domain-Driven Development
+    * MVC architecture
+    * Agile
 
 #### Royal Holloway, University of London (September 2011 to July 2014)
 
@@ -48,23 +49,23 @@ I am a full stack developer.  I am an Astrophysics BSc graduate and went oversea
 
 #### Interac Kanto South (March 2016 to September 2018)    
 *In Head Teacher Role*  
-* Worked one-on-one with the branch General Manager to develop software in Python to automate Interac Yokohama’s teacher-schools allocation process and significantly reduce company expenditure on commuting fares:
+* Worked one-on-one with the branch General Manager to [develop software in Python](https://github.com/punchcafe/project001) to automate Interac Yokohama’s teacher-schools allocation process and significantly reduce company expenditure on commuting fares:
   * Developed a locally optimised algorithm for pairing English teachers to their closest schools.
-  * Worked with the company branch head to ensure pairing algorithm also stayed in keeping with company axioms. (i.e. not being too close to one’s school, or sacrificing some overall efficiency to avoid harsh conditions for outliers.) 
-  * Planned and developed an auxiliary algorithm  for avoiding individual teachers being matched to extremely far schools as a fallout of the local optimization algorithm. 
+  * Worked with the company branch head to ensure pairing algorithm also stayed in keeping with company axioms. (i.e. not being too close to one’s school, or sacrificing some overall efficiency to avoid harsh conditions for outliers.)
+  * Planned and developed an auxiliary algorithm  for avoiding individual teachers being matched to extremely far schools as a fallout of the local optimization algorithm.
   * Integrated Google Maps Directions, and Google Maps APIs.
-  * Used Pyexcel Framework to enable compatibility between the software and current company-standard Excel data formatting. 
+  * Used Pyexcel Framework to enable compatibility between the software and current company-standard Excel data formatting.
   * Implemented simple UI to make it accessible to other members of staff.
 
 * Managed a group of 12 teachers, acting as mentor and bridge harmonising teacher and corporate relations.
 * Developed and presented talks and presentations to rooms of around 100-200 coworkers and managerial team members.
-  
+
 *In AET role*
 
 * Consistent public speaking during classes for around 20 hours a week.
 * Fostered good relations with the resident Japanese English teachers, overcoming language and cultural barriers.
 * Employed good time management and planning to always meet the school’s requirements.
-* Developed a strong adaptability in the face of the unpredictable changes in the classroom and on the timetable. 
+* Developed a strong adaptability in the face of the unpredictable changes in the classroom and on the timetable.
 
 
 #### Royal Holloway University of London (September 2013 to March 2014)   
@@ -74,7 +75,7 @@ I am a full stack developer.  I am an Astrophysics BSc graduate and went oversea
 * Developed Algorithms to automatically detected the position and boundaries of star objects in each data frame, as well as extracting their signal from background noise.
 * Achieved highest degree honors for ingenuity while developing aforementioned algorithm.
 * Used Pyplot framework to simulate expected experimental findings, and compare against real results.
-* Used statistical modelling to demonstrate experimental accuracy. 
+* Used statistical modelling to demonstrate experimental accuracy.
 
 
 ## Extra credit
@@ -87,5 +88,3 @@ N3 Certification (Advanced Intermediate)
 
 **Award Winning Comic**  
 [Take a look!](https://express.yudu.com/item/details/3780123/MJ15--.1st---Luca-Fruzza----Sonnegarten--)
-
-
