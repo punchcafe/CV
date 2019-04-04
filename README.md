@@ -13,6 +13,15 @@
 
 I am a full stack developer.  I am an Astrophysics BSc graduate and went overseas to become a teacher and Team Leader in Japan.  This background has honed my logical, problem-solving skillset whilst balancing it with strong interpersonal skills; giving me a versatility which makes me an asset to any dev team.  Having discovered my calling to become a developer, I now want to apply these skills to the keyboard.  I’m eager for challenges which will drive me to learn and improve as a developer.
 
+## Projects
+
+| Project        | Description  | Stack  |
+| ------------- |:-------------:| -----:|
+| [Peak Pose](https://github.com/nomats/peakPose)      | A web app to serve as your yoga instructor. |  <img src="./images/JavaScript-logo.png" height=25px> <img src="./images/React.js_logo-512.png" height=25px><img src="./images/jestlogo.png" height=25px>|
+| [Black Lit Function](https://github.com/punchcafe/BlackLitOnRails)      | Website for the *Black Lit Function* podcast. **(Work in Progress)**      |   <img src="./images/Ruby_on_Rails-logo.png" height=25px><img src="./images/rspec.png" height=25px>|
+| [Snap Stream](https://github.com/punchcafe/snapstream) | An instagram clone with a retro feel.      |<img src="./images/Ruby_on_Rails-logo.png" height=25px><img src="./images/rspec.png" height=25px>|
+| [Location-Based Pairing Algorithm](https://github.com/punchcafe/project001) | A travel-fare minimising solution project with emphasis on making optimisation algorithms as opposed to using best industry practices writing code.      |<img src="./images/google-maps-logo.png" height=25px><img src="./images/pythonlogo.png" height=25px>|
+
 ## Skills
 
 #### Communication and Teamwork
