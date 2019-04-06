@@ -1,22 +1,22 @@
 
 <p style="text-align: right;">
-<img src="./images/rubylogo.png" width=50px>
-<img src="./images/Ruby_on_Rails-logo.png" width=30px>
-<img src="./images/rspec.png" width=30px>
-<img src="./images/JavaScript-logo.png" width=50px>
-<img src="./images/React.js_logo-512.png" width=30px>
-<img src="./images/jestlogo.png" width=30px>
-<img src="./images/pythonlogo.png" width=50px>
+<img src="./images/rubylogo.png" height=50px>
+<img src="./images/Ruby_on_Rails-logo.png" height=30px>
+<img src="./images/rspec.png" height=30px>
+<img src="./images/JavaScript-logo.png" height=50px>
+<img src="./images/React.js_logo-512.png" height=30px>
+<img src="./images/jestlogo.png" height=30px>
+<img src="./images/pythonlogo.png" height=50px>
 </p>
 
 ## LUCA FRUZZA
 
-I am a full stack developer.  I am an Astrophysics BSc graduate and went overseas to become a teacher and Team Leader in Japan.  This background has honed my logical, problem-solving skillset whilst balancing it with strong interpersonal skills; giving me a versatility which makes me an asset to any dev team.  Having discovered my calling to become a developer, I now want to apply these skills to the keyboard.  I’m eager for challenges which will drive me to learn and improve as a developer.
+I am a full stack developer.  I am an Astrophysics BSc graduate and went overseas to become a teacher and Team Leader in Japan.  This background has honed my logical, problem-solving skillset whilst balancing it with strong interpersonal skills; giving me a versatility which makes me an asset to any dev team.  Having discovered my calling to become a developer, I completed a four month bootcamp with *Makers* to refine my experience into something industry ready.  I’m now eager for challenges which will drive me to learn and improve as a developer.
 
 ## Projects
 
 | Project        | Description  | Stack  |
-| ------------- |:-------------:| -----:|
+| ---- |:-------------:| :-----------:|
 | [Peak Pose](https://github.com/nomats/peakPose)      | A web app to serve as your yoga instructor. |  <img src="./images/JavaScript-logo.png" height=25px> <img src="./images/React.js_logo-512.png" height=25px><img src="./images/jestlogo.png" height=25px>|
 | [Black Lit Function](https://github.com/punchcafe/BlackLitOnRails)      | Website for the *Black Lit Function* podcast. **(Work in Progress)**      |   <img src="./images/Ruby_on_Rails-logo.png" height=25px><img src="./images/rspec.png" height=25px>|
 | [Snap Stream](https://github.com/punchcafe/snapstream) | An instagram clone with a retro feel.      |<img src="./images/Ruby_on_Rails-logo.png" height=25px><img src="./images/rspec.png" height=25px>|
@@ -24,15 +24,26 @@ I am a full stack developer.  I am an Astrophysics BSc graduate and went oversea
 
 ## Skills
 
+#### Industry Coding Practices
+Experience using industry practices to deliver completed projects.
+##### Examples:
+- **Agile:** [PeakPose](https://github.com/nomats/peakPose), [CoffeeNotes](https://github.com/makerlonerangers/coffeeNotes), [JunglBook](https://github.com/simian-sinister/Acebook-Simian-Sinister)
+- **Test-Driven Development:** [BlackLitOnRails](https://github.com/punchcafe/BlackLitOnRails), [Snapstream](https://github.com/punchcafe/snapstream)
+- **Unit testing:** [Bowling Challenge](https://github.com/punchcafe/bowling-challenge), [Beedle's Hotbox](https://github.com/punchcafe/beedles-hotbox)
+- **Modularisation:** [Gilded Rose Kata](https://github.com/punchcafe/GRKata), [AsanaWrap](https://github.com/nomats/asanaWrap)
+
 #### Communication and Teamwork
 
 #### Initiative
+- Self learning repository
 
 #### Adaptive Learning
+- language agnostic
 
-#### Mathematical Problem Solving
+#### Algorithmic Thinking & Mathematical Problem Solving
+- Asana Wrap
+- Location Based Pairing
 
-#### Algorithmic Thinking
 
 ## Education
 
