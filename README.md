@@ -33,16 +33,23 @@ Experience using industry practices to deliver completed projects.
 - **Modularisation:** [Gilded Rose Kata](https://github.com/punchcafe/GRKata), [AsanaWrap](https://github.com/nomats/asanaWrap)
 
 #### Communication and Teamwork
+- Delivered several successful software projects as part of a variety of different teams.
+- Worked as a pair with non-native English speakers to develop and deliver innovative English classes to Junior High School students.
+- Acted as manager and mentor to groups of English teachers.
+
+#### Algorithmic Thinking & Mathematical Problem Solving
+- Awarded 1st degree hons. for University dissertation due to algorithm approach and construction.
+- Developed an optimisation algorithm to minimise travel time and expenses for employees, based on strict company algorithms.
+- A fan of [codewars](https://www.codewars.com/users/punchcafe/completed_solutions) when I have time.
+
 
 #### Initiative
-- Self learning repository
+- [Taught myself to code](https://github.com/punchcafe/SelfStudy)
+- Taught myself Japanese
 
 #### Adaptive Learning
 - language agnostic
 
-#### Algorithmic Thinking & Mathematical Problem Solving
-- Asana Wrap
-- Location Based Pairing
 
 
 ## Education
