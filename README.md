@@ -11,7 +11,7 @@
 
 ## LUCA FRUZZA
 
-I am a full stack developer.  I am an Astrophysics BSc graduate and went overseas to become a teacher and Team Leader in Japan.  This background has honed my logical, problem-solving skillset whilst balancing it with strong interpersonal skills; giving me a versatility which makes me an asset to any dev team.  Having discovered my calling to become a developer, I completed a four month bootcamp with *Makers* to refine my experience into something industry ready.  I’m now eager for challenges which will drive me to learn and improve as a developer.
+I am a full stack developer.  I am an Astrophysics BSc graduate and went overseas to become a teacher and Team Leader in Japan.  This background has honed my logical, problem-solving skillset whilst balancing it with strong interpersonal skills; giving me a versatility which makes me an asset to any dev team.  Having discovered my calling to become a developer, I completed a four month bootcamp with *Makers* as a *Makers Fellow* to refine my experience into something industry ready.  I’m now eager for challenges which will drive me to learn and improve as a developer.
 
 ## Projects
 
@@ -39,16 +39,21 @@ Experience using industry practices to deliver completed projects.
 
 #### Algorithmic Thinking & Mathematical Problem Solving
 - Awarded 1st degree hons. for University dissertation due to algorithm approach and construction.
-- Developed an optimisation algorithm to minimise travel time and expenses for employees, based on strict company algorithms.
+- Developed an [optimisation algorithm](https://github.com/punchcafe/project001) to minimise travel time and expenses for employees, based on strict company algorithms.
 - A fan of [codewars](https://www.codewars.com/users/punchcafe/completed_solutions) when I have time.
 
 
 #### Initiative
+- Moved to Japan and taught myself Japanese
 - [Taught myself to code](https://github.com/punchcafe/SelfStudy)
-- Taught myself Japanese
+- Always working on new projects
+
 
 #### Adaptive Learning
-- language agnostic
+- Learnt coding principles & python from scratch within a month in order to be able to handle dissertation experiment data.
+- Learnt Rails, JavaScript and React over individual week stretches to implement in respective projects.
+- Always excited to learn new tech, processes and team cultures.
+
 
 
 
