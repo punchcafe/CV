@@ -4,6 +4,7 @@
 <img src="./images/Ruby_on_Rails-logo.png" height=30px>
 <img src="./images/rspec.png" height=30px>
 <img src="./images/JavaScript-logo.png" height=50px>
+<img src="./images/node-logo.png" height=40px>
 <img src="./images/React.js_logo-512.png" height=30px>
 <img src="./images/jestlogo.png" height=30px>
 <img src="./images/pythonlogo.png" height=50px>
@@ -17,9 +18,10 @@ I am a full stack developer.  I am an Astrophysics BSc graduate and went oversea
 
 | Project        | Description  | Stack  |
 | ------------- |:-------------:| :-----:|
-| [Peak Pose](https://github.com/nomats/peakPose)      | A web app to serve as your yoga instructor. |  <img src="./images/React.js_logo-512.png" height=25px><img src="./images/jestlogo.png" height=25px>|
-| [Black Lit Function](https://github.com/punchcafe/BlackLitOnRails)      | Website for the *Black Lit Function* podcast. **(Work in Progress)**      |   <img src="./images/Ruby_on_Rails-logo.png" height=25px><img src="./images/rspec.png" height=25px>|
-| [Snap Stream](https://github.com/punchcafe/snapstream) | An instagram clone with a retro feel.      |<img src="./images/Ruby_on_Rails-logo.png" height=25px><img src="./images/rspec.png" height=25px>|
+| [AsanaWrap](https://github.com/nomats/peakPose)      |   A greenfield npm package built on SOLID architecture principles. *Logic from [Peak Pose](https://github.com/nomats/peakPose) extracted and re-designed into a re-useable package, as a study in software crafstmanship.* **(Work in Progress)**  |  <img src="./images/node-logo.png" height=30px><img src="./images/jestlogo.png" height=25px>|
+| [Black Lit Function](https://github.com/punchcafe/BlackLitOnRails)      | A RESTful asymmetric admin/public web application built in Rails. *The official Black Lit Function podcast website.* **(Work in Progress)**      |   <img src="./images/Ruby_on_Rails-logo.png" height=25px><img src="./images/rspec.png" height=25px>|
+| [Peak Pose](https://github.com/nomats/peakPose)      | A browser based pose-recognition app built with React and [Posenet](https://github.com/tensorflow/tfjs-models/tree/master/posenet). *A web app to serve as your yoga instructor.* |  <img src="./images/React.js_logo-512.png" height=25px><img src="./images/jestlogo.png" height=25px>|
+| [Snap Stream](https://github.com/punchcafe/snapstream) | A RESTful rails application. *An instagram clone with a retro feel.*      |<img src="./images/Ruby_on_Rails-logo.png" height=25px><img src="./images/rspec.png" height=25px>|
 | [Location-Based Pairing Algorithm](https://github.com/punchcafe/project001) | A travel-fare minimising solution project with emphasis on making optimisation algorithms as opposed to using best industry practices writing code.      |<img src="./images/google-maps-logo.png" height=25px><img src="./images/pythonlogo.png" height=25px>|
 
 ## Skills
