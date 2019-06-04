@@ -4,7 +4,7 @@
 <img src="./images/Ruby_on_Rails-logo.png" height=30px>
 <img src="./images/rspec.png" height=30px>
 <img src="./images/JavaScript-logo.png" height=50px>
-<img src="./images/node-logo.png" height=40px>
+<img src="./images/node-logo.png" height=30px>
 <img src="./images/React.js_logo-512.png" height=30px>
 <img src="./images/jestlogo.png" height=30px>
 <img src="./images/pythonlogo.png" height=50px>
