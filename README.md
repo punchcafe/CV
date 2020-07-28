@@ -12,7 +12,38 @@
 
 ## LUCA FRUZZA
 
-I am a full stack developer.  I am an Astrophysics BSc graduate and went overseas to become a teacher and Team Leader in Japan.  This background has honed my logical, problem-solving skillset whilst balancing it with strong interpersonal skills; giving me a versatility which makes me an asset to any dev team.  Having discovered my calling to become a developer, I completed a four month bootcamp with *Makers* as a *Makers Fellow* to refine my experience into something industry ready.  I’m now eager for challenges which will drive me to learn and improve as a developer.
+I'm a back-end Java engineer, specialising in developing and supporting micro-service architecture platforms. I'm looking for companies where I can work on interesting problems in a tight team of people who love to code. My main strengths as an engineer come from an insatiable curiosity to develop my technical understanding and craft, while my strengths as a team member come from my soft skills and enthusiasm.
+
+
+
+
+For me this drive comes from the sheer _awesomeness_ of the field of computing.
+
+Other than software engineering, I am an Astrophysics BSc graduate, and have spent several years working as a teacher and team-lead in Japan. This background has reenforced my logical, problem-solving skillset whilst balancing it with strong interpersonal skills. In the workplace I value challenging technical problems, people I can geek out with about computing, and a strong team ethic above all else.
+
+## Experience
+
+#### Global   
+*Backend Software Engineer*  
+* Part of a small back-end team responsible for consistently delivering features and supporting a multi-million pound advertising platform.
+* Worked on the system from it being handful of apps on a single environment, to a massive, multi-environment production-ready platform with alerting and monitoring.
+* Worked in two-week sprint cycles, striking a balance of feature delivery and technical debt collection.
+* Worked with incredible and passionate engineers, whose wisdom and enthusiasm played a huge part in my accelerated development from Junior developer.
+* went from zero knowledge of Java, Spring Boot, Docker and Kubernetes, to being able to spear head large application and infrastructure tickets within a year.
+//TODO: remove but keep a list somewhere
+- Camel SFTP reporting
+- Cloning
+- Filtration
+- Hazelcast
+- Camel Proxy
+- Core refactors and migrations
+* Was on the support engineer rota, on duty about a week of every month. This entailed responding to incidents, coordinating comms across different teams, finding causes using various toolings and raising hotfixes into production where necessary. As support engineer it was also my responsibility to maintain thorough documentation of daily activities, known issues, and post mortems.
+
+
+* Helped build a strong sense of team spirit amongst our team, _The Mighty Ducks_.
+
+##### Testimonials
+While it's a little but unconventional, I've included a number of testimonials from colleagues at Global. My parting from the company was on good terms, COVID caused it
 
 ## Projects
 
@@ -25,6 +56,32 @@ I am a full stack developer.  I am an Astrophysics BSc graduate and went oversea
 | [Location-Based Pairing Algorithm](https://github.com/punchcafe/project001) | A travel-fare minimising solution project with emphasis on making optimisation algorithms as opposed to using best industry practices writing code.      |<img src="./images/google-maps-logo.png" height=25px><img src="./images/pythonlogo.png" height=25px>|
 
 ## Skills
+## Tech
+#### App development
+  - Java
+  - Spring
+
+<details>
+  <summary> Click to see more </summary>
+
+  - gRPC / GraphQL / Feign / SpringMVC
+  - Junit / AssertJ
+  - Apache Camel
+  - Hazelcast
+  - RDS / MongoDB
+</details>
+
+#### System monitoring and support
+- Kubernetes
+- Promethues / PromQL / Prometheus Alerting / MicroMeter
+- Kibana / LumineQL
+- Spring Boot Admin
+- Docker
+
+#### Hobby
+- C++ / Arduino
+- Python
+- Vanilla JavaScript
 
 #### Industry Coding Practices
 Experience using industry practices to deliver completed projects.
@@ -90,7 +147,8 @@ Experience using industry practices to deliver completed projects.
 
 
 
-## Experience
+
+
 
 #### Interac Kanto South (March 2016 to September 2018)    
 *In Head Teacher Role*  
